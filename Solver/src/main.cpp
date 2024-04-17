@@ -19,7 +19,7 @@ int main(int argc, char** argv)
     }
     else
     {
-        printf("Usage: %s <rows> <cols> <starting x> <starting y>\n", argv[0]);
+        printf("Usage: %s <#rows> <#cols> <starting x> <starting y>\n", argv[0]);
         r = 8; c = 8; x = 4; y = 4;
     }
 

@@ -1,7 +1,7 @@
 CC = g++
 CFLAGS = -Wall -std=c++11
 LDFLAGS = 
-TARGET = PathSolver
+TARGET = Solver
 SRCDIR = src
 OBJDIR = obj
 SRCS = $(wildcard $(SRCDIR)/*.cpp)
